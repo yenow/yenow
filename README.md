@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# Hello, I am Sinyoung Yun!
+#### Hello, I am Sinyoung Yun!
 
 I am ERP developer from South Korea. I am interested in React, Spring. 
 
-# 🔭Career
+#### 🔭Career
 - crespeed - ERP developer (2020.11 ~ )
 
 <!--
