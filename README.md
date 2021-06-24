@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rec&color=auto&height=300&section=header&text=sinyoung`s%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=sinyoung`s%20github&fontSize=90)
 
 
 ### Hi there 👋
