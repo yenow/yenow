@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sinyoung`s%20github&fontSize=40&fontColor=ffffff)
 
 
-### Hi there 👋
+### Welcome! 👋
 
 #### Hello, I am Sinyoung Yun!
 
