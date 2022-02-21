@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=sinyoung`s%20github&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=sinyoung`s%20github&fontSize=40&fontColor=ffffff)
 
 
 
@@ -8,7 +8,7 @@
 
 ### Hello, I am Sinyoung Yun!
 
-안녕하세요. 항상 더 좋은 코드를 만들기 위해 노력하고, 많은 지식을 알아가려하는 개발자입니다. 최근 관심있는 기술은 `Spring boot`, `Java`, `JPA`, `Flutter`, 등 입니다. 특히 백엔드쪽으로 자신감이 있습니다.
+안녕하세요. 항상 더 좋은 코드를 만들기 위해 노력하고, 많은 지식을 알아가려하는 백엔드 개발자입니다. 최근 관심있는 기술은 `Spring boot`, `Java`, `JPA`, `Flutter`, 등 입니다. 데브옵스가 되는것을 목표로 하고 있습니다. 
 
 
 
