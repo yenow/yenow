@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=sinyoung`s%20github&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=300&section=header&text=sinyoung`s%20github&fontSize=40&fontColor=ffffff)
 
 
 
