@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sinyoung`s%20github&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=sinyoung`s%20github&fontSize=40&fontColor=ffffff)
+
+
+
 
 
 # Welcome! 👋
@@ -9,7 +12,13 @@
 
 
 
-## ⚙️ Skill
+> **개인 블로그 URL :** https://codeofenow.tistory.com/
+
+<img src="https://github-readme-stats.vercel.app/api?username=yenow&show_icons=true&theme=radical" alt="sinyoung's GitHub stats" style="float: left;" />
+
+
+
+## ⚙️ Skill (스킬)
 
 #####  ▫️ Frontend
 
@@ -31,22 +40,39 @@
 
 
 
-## 🔭 Career
+## 🔭 Career (경력)
 
-- crespeed - ERP developer (2020.11 ~ 2021.11)
+> #### crespeed - ERP developer (2020.11 ~ 2021.11)
+>
+> - ERP에서 인사,총무 관련 개발
+> - 공통개발
+>   - 공통 테이블 수정 및 개발
+>   - 포털사이트 개발
 
 
 
-## 📋 My Project
-
-
+## 🗂️ Project (토이 프로젝트)
 
 #### 📱 WAI (에니어그램 커뮤니티 앱)
 
-
-
-> ##### 📆 기간 : 2021.12 ~ 
+> ##### 📆 기간 : 2021.12 ~ 진행중
+>
+> ##### 😀 참여인원 : 윤신영
 >
 > application : https://github.com/yenow/wai-app/blob/master/README.md
 >
 > backend : https://github.com/yenow/wai-backend
+
+
+
+
+
+## 🗂️ Certificate (자격증)
+
+> #### 정보처리기사 
+>
+> 📆 취득일 : 2021.3
+
+> #### 컴퓨터활용능력 1급
+>
+> 📆 취득일 : 2020.11
