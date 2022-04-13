@@ -60,7 +60,7 @@
 > ##### 😀 참여인원 : 윤신영
 >
 > application : https://github.com/yenow/wai-app/blob/master/README.md
->
+> 플레이스토어 링크 : https://play.google.com/store/apps/details?id=com.wai.wai
 > backend : https://github.com/yenow/wai-backend
 
 
